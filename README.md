@@ -1,2 +1,3 @@
 # hello-world
-The first creation of mine on GitHub
+
+Hi, my name is Olesya :)
